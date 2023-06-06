@@ -7,7 +7,7 @@
   - python
   - c/c++
   - java
-  - naml
+  - nasm
   - bash
 - 📫 How to reach me ...
   - email bencookson73@gmail.com
